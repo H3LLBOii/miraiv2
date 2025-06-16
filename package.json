@@ -40,7 +40,7 @@
 		"crypto": "",
 		"eval": "",
 		"extract-zip": "",
-		"@miraipr0ject/fca-unofficial": "",
+		""fca-unofficial": "^6.0.1"": "",
 		"figlet": "",
 		"fs-extra": "",
 		"jimp": "",
